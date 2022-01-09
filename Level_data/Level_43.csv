@@ -1,0 +1,8 @@
+M,M,M,0,S,M,M,M
+M,M,M,0,0,M,M,M
+M,M,LL,0,LU,M,M,M
+M,LL,0,0,0,LL,M,M
+M,0,0,0,0,0,M,M
+M,LU,0,0,0,LU,M,M
+M,M,LL,0,LU,M,M,M
+M,M,M,0,FL,M,M,M

@@ -3,7 +3,9 @@ https://www.freepik.com/free-vector/treasure-chests-isometric-cartoon-icon-set_9
 
 Slime:
 https://opengameart.org/content/cute-slime-walk
-https://i.ytimg.com/vi/VdseiEM1Qos/maxresdefault.jpg  //logo?
+
+Menu:
+https://i.ytimg.com/vi/VdseiEM1Qos/maxresdefault.jpg
 
 Archer:
 https://darkpixel-kronovi.itch.io/archer-hero
@@ -22,3 +24,9 @@ https://graphscriptdev.itch.io/tree-pixel-art
 
 Tiles:
 https://screamingbrainstudios.itch.io/iso-overworld-pack
+
+Lever:
+https://blackspirestudio.itch.io/medieval-pixel-art-asset-free?download
+
+Signpost:
+https://cainos.itch.io/pixel-art-platformer-village-props
